@@ -13,10 +13,10 @@ namespace testsFürFröhlicheZahlen
     {
         [Test, Category ("Gerüsttest")]
 
-        public void ZahlInListe()
+        public void ZahlenListe()
         {
-            var ergebnis = testClass1.ZahlenListe(26);
-            Assert.AreEqual(new[] { 2, 6 }, ergebnis.ToArray());
+            var ergebnis = testClass1.ErstelleZahlenListe(123);
+            Assert.AreEqual(new[] { 1, 2, 3 }, ergebnis.ToArray());
         }
     }
 }

@@ -9,7 +9,7 @@ namespace fröhlicheZahlen
     public class testClass1
     {
 
-        internal static bool ÜberprüfeObFröhlich(int zahl1)
+        public static string ÜberprüfeObFröhlich(int zahl1)
         {
             while (true)
             {
@@ -18,9 +18,10 @@ namespace fröhlicheZahlen
 
                 switch (zahl1) {
                     case 1:
-                        return true;
+
+                        return "fröhlich :)";
                     case 4:
-                        return false;
+                        return "traurig :(";
                     default:
                         break;
                 }
