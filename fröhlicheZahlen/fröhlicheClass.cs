@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace fröhlicheZahlen
 {
-    public class testClass1
+    public class fröhlicheClass
     {
 
         public static string ÜberprüfeObFröhlich(int zahl1)
@@ -43,7 +43,7 @@ namespace fröhlicheZahlen
         internal static int BerechneZwischensumme(List<int> zl)
         {
             var ergebnis = 0;
-            for (int i = 0; i <= zl.Count(); i++)
+            for (int i = 0; i < zl.Count(); i++)
             {
                 ergebnis += zl[i] * zl[i];
             }

@@ -1,5 +1,4 @@
 Z:\Programmierung\VisualStudio\Konsolenanwendungen\fröhlicheZahlen\fröhlicheZahlen\bin\Debug\fröhlicheZahlen.dll
 Z:\Programmierung\VisualStudio\Konsolenanwendungen\fröhlicheZahlen\fröhlicheZahlen\bin\Debug\fröhlicheZahlen.pdb
-Z:\Programmierung\VisualStudio\Konsolenanwendungen\fröhlicheZahlen\fröhlicheZahlen\obj\Debug\fröhlicheZahlen.csprojResolveAssemblyReference.cache
 Z:\Programmierung\VisualStudio\Konsolenanwendungen\fröhlicheZahlen\fröhlicheZahlen\obj\Debug\fröhlicheZahlen.dll
 Z:\Programmierung\VisualStudio\Konsolenanwendungen\fröhlicheZahlen\fröhlicheZahlen\obj\Debug\fröhlicheZahlen.pdb
